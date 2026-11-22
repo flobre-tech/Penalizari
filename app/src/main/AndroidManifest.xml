@@ -5,6 +5,7 @@
     <!-- Permisiunea "Acces la utilizare" (se activează manual din Setări) -->
     <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS"
         tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <!-- Ca să putem vedea lista aplicațiilor instalate -->
     <queries>
